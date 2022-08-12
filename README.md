@@ -10,3 +10,6 @@ video platform using CSS and JavaScript
 * JavaScript
 
 ## live site 
+
+
+## screenshots
