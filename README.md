@@ -11,6 +11,8 @@ video platform using CSS and JavaScript
 
 ## live site 
 
+https://peter-kimanzi.github.io/awesome-video-platform/
+
 
 ## screenshots
 
