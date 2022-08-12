@@ -7,3 +7,4 @@ video platform using CSS and JavaScript
 
 * HTML
 * CSS
+* JavaScript
